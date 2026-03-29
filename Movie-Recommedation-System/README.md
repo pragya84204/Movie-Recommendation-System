@@ -27,17 +27,6 @@ Dataset files:
 4. Calculating movie similarity using correlation
 5. Generating movie recommendations
 
-## Visualizations
-
-### Rating Distribution
-![Rating Distribution](Movie-Recommedation-System/Images/rating_distribution.png)
-
-### Top Rated Movies
-![Top Movies](Movie-Recommedation-System/Images/top_rated_movies.png)
-
-### Rating vs Number of Ratings
-![Rating vs Count](Movie-Recommedation-System/Images/rating_vs_count.png)
-
 ## Example Recommendation
 
 Input Movie: Toy Story (1995)
